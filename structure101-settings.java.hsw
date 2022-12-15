@@ -21,8 +21,8 @@
     <module name="Placemark" kind="ide-project" />
   </modules>
   <modules-in-scope>
-    <module name="Placemark" />
     <module name="Placemark___app" />
+    <module name="Placemark" />
   </modules-in-scope>
   <excludes>
     <exclude expression="*.*&amp;amp;*" active="true" />
